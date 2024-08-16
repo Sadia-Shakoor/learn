@@ -9,4 +9,4 @@ connection.execute("""Create table ttable_1(
 
 connection.execute("Insert into table_1 (id,name)  values (1,'Amanat'), (2,'Asad'), (3,'Abdullah') ")
 connection.commit()
-print("hey")
+print("hey3333333")
